@@ -1,4 +1,5 @@
-# WWE Superstars API 🏆
+# Express Recap 02
+# WWE Superstars API 
 
 A simple Express.js server built for **Express recap practice**, serving static data of popular WWE Superstars.
 
